@@ -1,0 +1,7 @@
+pandas
+numpy
+financiallib
+scikit-learn
+plotly
+
+-e .

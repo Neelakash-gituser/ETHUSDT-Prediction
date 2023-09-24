@@ -1,0 +1,182 @@
+{
+  "build": "py38h7f0c24c_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=12",
+    "libta-lib >=0.4.0,<0.5.0a0",
+    "numpy >=1.22.4,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "/home/cloudcraftz/anaconda3/pkgs/ta-lib-0.4.28-py38h7f0c24c_0",
+  "files": [
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/AUTHORS",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/LICENSE",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/METADATA",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/RECORD",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/WHEEL",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/talib/__init__.py",
+    "lib/python3.8/site-packages/talib/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/talib/__pycache__/abstract.cpython-38.pyc",
+    "lib/python3.8/site-packages/talib/__pycache__/deprecated.cpython-38.pyc",
+    "lib/python3.8/site-packages/talib/__pycache__/stream.cpython-38.pyc",
+    "lib/python3.8/site-packages/talib/_ta_lib.cpython-38-x86_64-linux-gnu.so",
+    "lib/python3.8/site-packages/talib/abstract.py",
+    "lib/python3.8/site-packages/talib/deprecated.py",
+    "lib/python3.8/site-packages/talib/stream.py"
+  ],
+  "fn": "ta-lib-0.4.28-py38h7f0c24c_0.conda",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/cloudcraftz/anaconda3/pkgs/ta-lib-0.4.28-py38h7f0c24c_0",
+    "type": 1
+  },
+  "md5": "d7e19cd588d61f2721836fd792c11734",
+  "name": "ta-lib",
+  "package_tarball_full_path": "/home/cloudcraftz/anaconda3/pkgs/ta-lib-0.4.28-py38h7f0c24c_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "d7c01547506b1c100661317fdf395260852eb2de76d5df2b6247796769a21814",
+        "sha256_in_prefix": "d7c01547506b1c100661317fdf395260852eb2de76d5df2b6247796769a21814",
+        "size_in_bytes": 174
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "654bc6faa089488772423c7624c3191b8779cc61203d7d40068bd0cfeb7ede8b",
+        "sha256_in_prefix": "654bc6faa089488772423c7624c3191b8779cc61203d7d40068bd0cfeb7ede8b",
+        "size_in_bytes": 1201
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "696527b9846bfb91774c302d2f7523b3c1f225426d5588d3e3224bfd7dc7d776",
+        "sha256_in_prefix": "696527b9846bfb91774c302d2f7523b3c1f225426d5588d3e3224bfd7dc7d776",
+        "size_in_bytes": 20589
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "58f2a76c167bf5d9a0620a8b404e07696968ca3ca7e68508e345b2e0b0e6a7d8",
+        "sha256_in_prefix": "58f2a76c167bf5d9a0620a8b404e07696968ca3ca7e68508e345b2e0b0e6a7d8",
+        "size_in_bytes": 1334
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6ec4de779e699eea4c07308ee1b8abb11519aa2f81ef8bb4b685635732f0dc5f",
+        "sha256_in_prefix": "6ec4de779e699eea4c07308ee1b8abb11519aa2f81ef8bb4b685635732f0dc5f",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ac0913eb4c53e28e1807ee990c90fa6499a5341dd8383ac5124853ca1ac4349c",
+        "sha256_in_prefix": "ac0913eb4c53e28e1807ee990c90fa6499a5341dd8383ac5124853ca1ac4349c",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "lib/python3.8/site-packages/TA_Lib-0.4.28.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "64370deb0412617c71d32f68ba4828e3f9d38d300aeaa0942da33fe8cc2db62e",
+        "sha256_in_prefix": "64370deb0412617c71d32f68ba4828e3f9d38d300aeaa0942da33fe8cc2db62e",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6d369593ff028f7094367c59699695b9d406f869fae0d638fd6a3bd6cb4691fa",
+        "sha256_in_prefix": "6d369593ff028f7094367c59699695b9d406f869fae0d638fd6a3bd6cb4691fa",
+        "size_in_bytes": 8879
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d660b0b11b75b7859c9a775e18f7370f536a9a93c12352a4858b849da2dd627a",
+        "sha256_in_prefix": "d660b0b11b75b7859c9a775e18f7370f536a9a93c12352a4858b849da2dd627a",
+        "size_in_bytes": 7052
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/__pycache__/abstract.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b9eb021cbdca2522017018faf643388b9520af0486de781ee2ce2b5947188bc",
+        "sha256_in_prefix": "6b9eb021cbdca2522017018faf643388b9520af0486de781ee2ce2b5947188bc",
+        "size_in_bytes": 865
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/__pycache__/deprecated.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3286ee1bb8365573a6d1c628afac0488b1a87cb6a9e52291a2fdf0d2acb8334e",
+        "sha256_in_prefix": "3286ee1bb8365573a6d1c628afac0488b1a87cb6a9e52291a2fdf0d2acb8334e",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/__pycache__/stream.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a18a0795c49815d4f93ed6a942ce9f91e0c9fa0e2cfe5e35f8d3578a56d8edf8",
+        "sha256_in_prefix": "a18a0795c49815d4f93ed6a942ce9f91e0c9fa0e2cfe5e35f8d3578a56d8edf8",
+        "size_in_bytes": 295
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/_ta_lib.cpython-38-x86_64-linux-gnu.so",
+        "path_type": "hardlink",
+        "sha256": "f743c4e82fb4f74f065a7b3e575ea2eae6f7539e215ae379e1d01bcbdcff2faf",
+        "sha256_in_prefix": "f743c4e82fb4f74f065a7b3e575ea2eae6f7539e215ae379e1d01bcbdcff2faf",
+        "size_in_bytes": 1622440
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/abstract.py",
+        "path_type": "hardlink",
+        "sha256": "b468b649c6d19551ee0b3ef04755f50e0a8a87aff1b3180b337ee2afc0fbb89b",
+        "sha256_in_prefix": "b468b649c6d19551ee0b3ef04755f50e0a8a87aff1b3180b337ee2afc0fbb89b",
+        "size_in_bytes": 799
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/deprecated.py",
+        "path_type": "hardlink",
+        "sha256": "519e151a9aaa8598b90e3cba67d16cdbb3fb80fe8abe8f54c7bed59ac630ee98",
+        "sha256_in_prefix": "519e151a9aaa8598b90e3cba67d16cdbb3fb80fe8abe8f54c7bed59ac630ee98",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.8/site-packages/talib/stream.py",
+        "path_type": "hardlink",
+        "sha256": "af1809e8906c7321e3f4a346435a7a3ed5864cd3cdb96cf1b947879e3ecd60f8",
+        "sha256_in_prefix": "af1809e8906c7321e3f4a346435a7a3ed5864cd3cdb96cf1b947879e3ecd60f8",
+        "size_in_bytes": 186
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "ta-lib",
+  "sha256": "2c7797587f31496916ca4835520702fca3fbe44c7f030749fa986aab73f2868f",
+  "size": 363826,
+  "subdir": "linux-64",
+  "timestamp": 1695113352386,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/ta-lib-0.4.28-py38h7f0c24c_0.conda",
+  "version": "0.4.28"
+}

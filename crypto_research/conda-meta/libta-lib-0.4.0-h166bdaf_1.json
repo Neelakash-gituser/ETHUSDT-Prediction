@@ -1,0 +1,112 @@
+{
+  "build": "h166bdaf_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=12"
+  ],
+  "extracted_package_dir": "/home/cloudcraftz/anaconda3/pkgs/libta-lib-0.4.0-h166bdaf_1",
+  "files": [
+    "bin/ta-lib-config",
+    "include/ta-lib/ta_abstract.h",
+    "include/ta-lib/ta_common.h",
+    "include/ta-lib/ta_defs.h",
+    "include/ta-lib/ta_func.h",
+    "include/ta-lib/ta_libc.h",
+    "lib/libta_lib.a",
+    "lib/libta_lib.so",
+    "lib/libta_lib.so.0",
+    "lib/libta_lib.so.0.0.0"
+  ],
+  "fn": "libta-lib-0.4.0-h166bdaf_1.tar.bz2",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/cloudcraftz/anaconda3/pkgs/libta-lib-0.4.0-h166bdaf_1",
+    "type": 1
+  },
+  "md5": "0095eb932f606aafb716da50b4bec482",
+  "name": "libta-lib",
+  "package_tarball_full_path": "/home/cloudcraftz/anaconda3/pkgs/libta-lib-0.4.0-h166bdaf_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/ta-lib-config",
+        "path_type": "hardlink",
+        "sha256": "30d220fc60f8f14ba6b58dced9918c2197bd0d17931e6606645b6a916ba7f657",
+        "sha256_in_prefix": "30d220fc60f8f14ba6b58dced9918c2197bd0d17931e6606645b6a916ba7f657",
+        "size_in_bytes": 443
+      },
+      {
+        "_path": "include/ta-lib/ta_abstract.h",
+        "path_type": "hardlink",
+        "sha256": "67fad02f978ac16ea9c980b48f3707013a193cd167e3c96b3acd1d2a685f6c88",
+        "sha256_in_prefix": "67fad02f978ac16ea9c980b48f3707013a193cd167e3c96b3acd1d2a685f6c88",
+        "size_in_bytes": 19930
+      },
+      {
+        "_path": "include/ta-lib/ta_common.h",
+        "path_type": "hardlink",
+        "sha256": "fea8b12d05a3bab05330d168f337158c480f773df078ca8eb5877ecc581403e3",
+        "sha256_in_prefix": "fea8b12d05a3bab05330d168f337158c480f773df078ca8eb5877ecc581403e3",
+        "size_in_bytes": 4792
+      },
+      {
+        "_path": "include/ta-lib/ta_defs.h",
+        "path_type": "hardlink",
+        "sha256": "cdf63ed47b15f9c0297f1f8d59617c19d53e70211a51c283a44539be129574a2",
+        "sha256_in_prefix": "cdf63ed47b15f9c0297f1f8d59617c19d53e70211a51c283a44539be129574a2",
+        "size_in_bytes": 12391
+      },
+      {
+        "_path": "include/ta-lib/ta_func.h",
+        "path_type": "hardlink",
+        "sha256": "70b389c6fb98e7b33e0027fbbc0bac33fcbf7255c425b76d375219a687900b1f",
+        "sha256_in_prefix": "70b389c6fb98e7b33e0027fbbc0bac33fcbf7255c425b76d375219a687900b1f",
+        "size_in_bytes": 181115
+      },
+      {
+        "_path": "include/ta-lib/ta_libc.h",
+        "path_type": "hardlink",
+        "sha256": "f405db61dba3c50d5ea63012f1b2b2e4ff446a9a52a3b6af96a753fffae4bef7",
+        "sha256_in_prefix": "f405db61dba3c50d5ea63012f1b2b2e4ff446a9a52a3b6af96a753fffae4bef7",
+        "size_in_bytes": 1849
+      },
+      {
+        "_path": "lib/libta_lib.a",
+        "path_type": "hardlink",
+        "sha256": "1f136de6b1fcf171f409858bb1d18c9cc465f6e68b01e9b6382eb79d64b3a6a9",
+        "sha256_in_prefix": "1f136de6b1fcf171f409858bb1d18c9cc465f6e68b01e9b6382eb79d64b3a6a9",
+        "size_in_bytes": 1518500
+      },
+      {
+        "_path": "lib/libta_lib.so",
+        "path_type": "softlink",
+        "sha256": "35940e3ad03724f9321ed3dab4ea363b399fa49ffcae7c2e46ce5870c5686c09",
+        "size_in_bytes": 1016384
+      },
+      {
+        "_path": "lib/libta_lib.so.0",
+        "path_type": "softlink",
+        "sha256": "35940e3ad03724f9321ed3dab4ea363b399fa49ffcae7c2e46ce5870c5686c09",
+        "size_in_bytes": 1016384
+      },
+      {
+        "_path": "lib/libta_lib.so.0.0.0",
+        "path_type": "hardlink",
+        "sha256": "35940e3ad03724f9321ed3dab4ea363b399fa49ffcae7c2e46ce5870c5686c09",
+        "sha256_in_prefix": "35940e3ad03724f9321ed3dab4ea363b399fa49ffcae7c2e46ce5870c5686c09",
+        "size_in_bytes": 1016384
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c12ddbadeb5026ac5a63d0efa5df4e4c49520333fc7a31feefc27db65b833839",
+  "size": 529504,
+  "subdir": "linux-64",
+  "timestamp": 1663071039042,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/libta-lib-0.4.0-h166bdaf_1.tar.bz2",
+  "version": "0.4.0"
+}
