@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 crypto_research_engine.egg-info/
+*.csv
